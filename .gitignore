@@ -1,0 +1,14 @@
+# Security (This is crucial for your evaluation!)
+.env
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore local virtual environments (just in case)
+venv/
+env/
+
+# Ignore Mac system files
+.DS_Store
