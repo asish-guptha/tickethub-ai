@@ -31,11 +31,11 @@ Create a `.env` file in the root directory and add your Google Gemini API key:
 ```env
 GEMINI_API_KEY=your_google_ai_studio_key_here
 
-2.Run the following command to build the images, spin up the database, run Django auto-migrations, and start the React frontend:
+### 2.Run the following command to build the images, spin up the database, run Django auto-migrations, and start the React frontend:
 
 docker-compose up --build
 
-3.Access the Application
+### 3.Access the Application
 
 Client UI: http://localhost:3000
 
